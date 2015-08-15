@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMediatheque", "MyMediatheque\MyMediatheque.csproj", "{77620C54-68C5-41B0-AEC5-BE556BF9A25D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMediatheque.Tests", "MyMediatheque.Tests\MyMediatheque.Tests.csproj", "{37E7F482-D27C-43E6-893E-66A0FB8832B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77620C54-68C5-41B0-AEC5-BE556BF9A25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77620C54-68C5-41B0-AEC5-BE556BF9A25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77620C54-68C5-41B0-AEC5-BE556BF9A25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77620C54-68C5-41B0-AEC5-BE556BF9A25D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37E7F482-D27C-43E6-893E-66A0FB8832B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E7F482-D27C-43E6-893E-66A0FB8832B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E7F482-D27C-43E6-893E-66A0FB8832B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E7F482-D27C-43E6-893E-66A0FB8832B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
